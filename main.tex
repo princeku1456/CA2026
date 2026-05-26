@@ -1,188 +1,182 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% LaTeX Book Template - Master File             %%
-%% LEFT ALIGNED CURRENT AFFAIRS VERSION          %%
+%% Clean & Minimal LaTeX Book Template          %%
+%% For Personal Study Notes                     %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[a4paper,12pt,twoside,openany]{book} 
+\documentclass[a4paper,11pt,twoside,openany,twocolumn]{book}
 
 % =========================================
 % 1. TYPOGRAPHY & ENCODING
 % =========================================
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{XCharter}
-\usepackage{tfrupee}
+\usepackage{XCharter}           % Elegant serif for body text
+\usepackage{tfrupee}            % Rupee symbol
 \DeclareUnicodeCharacter{20B9}{\rupee}
 \usepackage{graphicx}
-\usepackage{caption} 
+\usepackage{caption}
 \usepackage{float}
-\usepackage[scaled=1]{helvet} 
-\usepackage{courier}    
-\usepackage{microtype}  
+\usepackage{microtype}          % Typography refinement
 \usepackage[english]{babel}
-\usepackage{lettrine}   
-\usepackage{tabularx}    
+\usepackage{tabularx}
 \usepackage{array}
-\usepackage{booktabs}   
-\usepackage[document]{ragged2e} 
-\usepackage{parskip}       
-\usepackage{enumitem}      
-\usepackage{amsmath}       
-\usepackage{tcolorbox}     
+\usepackage{booktabs}           % Professional tables
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{amsmath}
 \usepackage{xcolor}
 
-\linespread{1.3}   
+% Line spacing for readability
+\linespread{1.15}
 
 % =========================================
 % 2. PAGE LAYOUT & MARGINS
 % =========================================
-\usepackage[a4paper, inner=3cm, outer=2.5cm, top=3cm, bottom=3cm]{geometry}
+\usepackage[a4paper, inner=1.5cm, outer=1.5cm, top=1.5cm, bottom=1.5cm]{geometry}
 \usepackage{wrapfig}
 
-% --- COLOR PALETTE ---
-\definecolor{navyblue}{rgb}{0, 0.2, 0.4}
-\definecolor{crimson}{rgb}{0.6, 0, 0}
-\definecolor{forestgreen}{rgb}{0, 0.4, 0.2}
-\definecolor{charcoal}{rgb}{0.2, 0.2, 0.2}
+% Two-column configuration
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{0pt}
 
-% --- HYPERLINKS ---
-\usepackage{hyperref}   
+% =========================================
+% 3. COLORS - MINIMAL PALETTE
+% =========================================
+\definecolor{darktext}{rgb}{0.1, 0.1, 0.1}
+\definecolor{headingcolor}{rgb}{0.2, 0.2, 0.2}
+\definecolor{lightgray}{rgb}{0.5, 0.5, 0.5}
+\definecolor{bluetext}{rgb}{0.0, 0.0, 0.8}  % Blue for TOC
+
+% =========================================
+% 4. HYPERLINKS
+% =========================================
+\usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=navyblue,
-    urlcolor=navyblue,
-    citecolor=navyblue
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
 }
 
-% --- CUSTOM ALIGNMENT FOR DATA TABLES ---
+% =========================================
+% 5. TABLE COLUMN TYPES
+% =========================================
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
 % =========================================
-% 3. HEADERS & FOOTERS (fancyhdr)
+% 6. HEADERS & FOOTERS
 % =========================================
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhf{} 
-% Left Even pages: Page number | Document/Subject Title
-\fancyhead[LE]{\thepage \hspace{1cm} \itshape\leftmark}
-% Right Odd pages: Topic Marker | Page number
-\fancyhead[RO]{\itshape\leftmark \hspace{1cm} \thepage}
+\fancyhf{}
+
+\fancyhead[LE]{\small\thepage \hspace{0.8cm} \itshape\leftmark}
+\fancyhead[RO]{\itshape\rightmark \hspace{0.8cm} \small\thepage}
 \renewcommand{\headrulewidth}{0.5pt}
 \renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
 
 % =========================================
-% 4. CUSTOM TITLE FORMATTING (titlesec)
+% 7. TITLE FORMATTING (titlesec)
 % =========================================
 \usepackage{titlesec}
 
-% CHAPTER FORMAT (Main Theme / Month / Subject Area)
+% Style table of contents in blue (text only, not page numbers)
+\usepackage{tocloft}
+\renewcommand{\cftchapfont}{\bfseries\color{bluetext}}
+\renewcommand{\cftsecfont}{\color{bluetext}}
+\renewcommand{\cftsubsecfont}{\color{bluetext}}
+
+% Reduce spacing in TOC for better page breaks
+\setlength{\cftbeforechapskip}{3pt}
+\setlength{\cftbeforesecskip}{2pt}
+\setlength{\cftbeforesubsecskip}{1pt}
+
+% Chapter formatting - clean and simple
 \titleformat{\chapter}[display]
-  {\bfseries\Large\color{charcoal}}
-  {\RaggedRight\MakeUppercase{\chaptertitlename} \Huge\thechapter}
-  {2ex}
-  {\titlerule\vspace{2ex}\RaggedRight}
-  [\vspace{2ex}\titlerule]
+  {\bfseries\Large}
+  {\chaptername\ \thechapter}
+  {0.5em}
+  {\titlerule\vspace{0.5em}}
+  [\vspace{0.5em}\titlerule]
 
-% SECTION FORMAT (Major News Items / Topics)
+% Section formatting
 \titleformat{\section}
-  {\color{navyblue}\bfseries\Large\RaggedRight}
+  {\bfseries\large}
   {\thesection}
-  {1em}
+  {0.8em}
   {}
 
-% SUBSECTION FORMAT (Sub-issues / Dimensions)
+% Subsection formatting
 \titleformat{\subsection}
-  {\color{charcoal}\bfseries\large\RaggedRight}
+  {\bfseries\normalsize}
   {\thesubsection}
-  {1em}
+  {0.6em}
   {}
 
+% Subsubsection formatting
+\titleformat{\subsubsection}
+  {\itshape\normalsize}
+  {\thesubsubsection}
+  {0.5em}
+  {}
+
+% Spacing adjustments
+\titlespacing*{\chapter}{0pt}{-10pt}{15pt}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{10pt}{4pt}
+\titlespacing*{\subsubsection}{0pt}{8pt}{3pt}
+
 % =========================================
-% 5. CURRENT AFFAIRS CUSTOM BOXES
+% 8. DOCUMENT METADATA
+% =========================================
+% =========================================
+% 8. DOCUMENT METADATA
+% =========================================
+\title{\fontsize{38}{44}\selectfont \textbf{Current Affairs}}
+% Displays the exact date of compilation alongside the current year
+\date{\small Last Updated: \today}
+
+% =========================================
+% 9. CUSTOM COMMANDS
 % =========================================
 
-% 1. Context Box: For background, history, or static framework of an issue
-\newtcolorbox{contextbox}[1]{
-  colback=gray!5!white,
-  colframe=gray!60!black,
-  fonttitle=\bfseries,
-  title={Background Context: #1},
-  arc=1mm,
-  left=3mm, right=3mm, top=2mm, bottom=2mm
-}
+% Key term highlighting (bold, no color)
+\newcommand{\keyterm}[1]{\textbf{#1}}
 
-% 2. Prelims Pointer Box: High-yield facts, data points, or objective pointers
-\newtcolorbox{prelimsbox}[1]{
-  colback=forestgreen!5!white,
-  colframe=forestgreen!70!black,
-  fonttitle=\bfseries,
-  title={Key Pointers: #1},
-  arc=1mm,
-  left=3mm, right=3mm, top=2mm, bottom=2mm
-}
-
-% 3. Mains Analytical Box: Core analysis, arguments, pros/cons, and impact
-\newtcolorbox{mainsbox}[1]{
-  colback=crimson!5!white,
-  colframe=crimson!70!black,
-  fonttitle=\bfseries,
-  title={Analytical Breakdown: #1},
-  arc=1mm,
-  left=3mm, right=3mm, top=2mm, bottom=2mm
-}
-
-% Timeline-esque Info Box
-\newtcolorbox{infobox}{
-  colback=blue!5!white, 
-  colframe=blue!50!black, 
-  title=\textbf{Key Metrics / Timeline}, 
-  arc=1mm
+% Definition command
+\newcommand{\definition}[2]{%
+  \noindent\textbf{#1:} #2\par
 }
 
 % =========================================
-% 6. DOCUMENT METADATA
-% =========================================
-\title{\Huge \textbf{Current Affairs Short Notes}\\ \Large Monthly Summary \& Revision Modules}
-\author{}
-\date{\the\year}
-
-% =========================================
-% INDEXING CONFIGURATION
-% =========================================
-\usepackage{imakeidx}
-\indexsetup{level=\section*,toclevel=section,noclearpage}
-\makeindex[name=ch1,title=Index]
-\makeindex[name=ch2,title=Index]
-\makeindex[name=ch3,title=Index]
-\makeindex[name=ch4,title=Index]
-\makeindex[name=ch5,title=Index]
-\makeindex[name=ch6,title=Index]
-
-\let\stdindex\index
-\renewcommand{\index}[1]{\stdindex[ch\arabic{chapter}]{#1}}
-
-% =========================================
-% 7. CONTENT
+% BEGIN DOCUMENT
 % =========================================
 \begin{document}
 
 \frontmatter
-\maketitle
+
+% Title Page
+\twocolumn[%
+  \begin{center}
+    \vspace*{3cm}
+    \maketitle
+    \vspace*{1cm}
+    \hrule
+    \vspace*{2cm}
+  \end{center}
+]
 
 % Table of Contents
-{
-  \hypersetup{linkcolor=navyblue} 
-  \tableofcontents
-}
+\onecolumn
+\tableofcontents
+\twocolumn
 
 \mainmatter
 
-% -------------------------------------------------------------------
-% INCLUDE COMPONENT MODULES / THEMES HERE
-% -------------------------------------------------------------------
-% Recommended: Split chapters by Month or General Studies Paper Categories
-
+% Include chapter files
 \input{chapter1}
 \input{chapter2}
 \input{chapter3}
