@@ -1,0 +1,193 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LaTeX Book Template - Master File             %%
+%% LEFT ALIGNED CURRENT AFFAIRS VERSION          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,12pt,twoside,openany]{book} 
+
+% =========================================
+% 1. TYPOGRAPHY & ENCODING
+% =========================================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{XCharter}
+\usepackage{tfrupee}
+\DeclareUnicodeCharacter{20B9}{\rupee}
+\usepackage{graphicx}
+\usepackage{caption} 
+\usepackage{float}
+\usepackage[scaled=1]{helvet} 
+\usepackage{courier}    
+\usepackage{microtype}  
+\usepackage[english]{babel}
+\usepackage{lettrine}   
+\usepackage{tabularx}    
+\usepackage{array}
+\usepackage{booktabs}   
+\usepackage[document]{ragged2e} 
+\usepackage{parskip}       
+\usepackage{enumitem}      
+\usepackage{amsmath}       
+\usepackage{tcolorbox}     
+\usepackage{xcolor}
+
+\linespread{1.3}   
+
+% =========================================
+% 2. PAGE LAYOUT & MARGINS
+% =========================================
+\usepackage[a4paper, inner=3cm, outer=2.5cm, top=3cm, bottom=3cm]{geometry}
+\usepackage{wrapfig}
+
+% --- COLOR PALETTE ---
+\definecolor{navyblue}{rgb}{0, 0.2, 0.4}
+\definecolor{crimson}{rgb}{0.6, 0, 0}
+\definecolor{forestgreen}{rgb}{0, 0.4, 0.2}
+\definecolor{charcoal}{rgb}{0.2, 0.2, 0.2}
+
+% --- HYPERLINKS ---
+\usepackage{hyperref}   
+\hypersetup{
+    colorlinks=true,
+    linkcolor=navyblue,
+    urlcolor=navyblue,
+    citecolor=navyblue
+}
+
+% --- CUSTOM ALIGNMENT FOR DATA TABLES ---
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% =========================================
+% 3. HEADERS & FOOTERS (fancyhdr)
+% =========================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} 
+% Left Even pages: Page number | Document/Subject Title
+\fancyhead[LE]{\thepage \hspace{1cm} \itshape\leftmark}
+% Right Odd pages: Topic Marker | Page number
+\fancyhead[RO]{\itshape\leftmark \hspace{1cm} \thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+
+% =========================================
+% 4. CUSTOM TITLE FORMATTING (titlesec)
+% =========================================
+\usepackage{titlesec}
+
+% CHAPTER FORMAT (Main Theme / Month / Subject Area)
+\titleformat{\chapter}[display]
+  {\bfseries\Large\color{charcoal}}
+  {\RaggedRight\MakeUppercase{\chaptertitlename} \Huge\thechapter}
+  {2ex}
+  {\titlerule\vspace{2ex}\RaggedRight}
+  [\vspace{2ex}\titlerule]
+
+% SECTION FORMAT (Major News Items / Topics)
+\titleformat{\section}
+  {\color{navyblue}\bfseries\Large\RaggedRight}
+  {\thesection}
+  {1em}
+  {}
+
+% SUBSECTION FORMAT (Sub-issues / Dimensions)
+\titleformat{\subsection}
+  {\color{charcoal}\bfseries\large\RaggedRight}
+  {\thesubsection}
+  {1em}
+  {}
+
+% =========================================
+% 5. CURRENT AFFAIRS CUSTOM BOXES
+% =========================================
+
+% 1. Context Box: For background, history, or static framework of an issue
+\newtcolorbox{contextbox}[1]{
+  colback=gray!5!white,
+  colframe=gray!60!black,
+  fonttitle=\bfseries,
+  title={Background Context: #1},
+  arc=1mm,
+  left=3mm, right=3mm, top=2mm, bottom=2mm
+}
+
+% 2. Prelims Pointer Box: High-yield facts, data points, or objective pointers
+\newtcolorbox{prelimsbox}[1]{
+  colback=forestgreen!5!white,
+  colframe=forestgreen!70!black,
+  fonttitle=\bfseries,
+  title={Key Pointers: #1},
+  arc=1mm,
+  left=3mm, right=3mm, top=2mm, bottom=2mm
+}
+
+% 3. Mains Analytical Box: Core analysis, arguments, pros/cons, and impact
+\newtcolorbox{mainsbox}[1]{
+  colback=crimson!5!white,
+  colframe=crimson!70!black,
+  fonttitle=\bfseries,
+  title={Analytical Breakdown: #1},
+  arc=1mm,
+  left=3mm, right=3mm, top=2mm, bottom=2mm
+}
+
+% Timeline-esque Info Box
+\newtcolorbox{infobox}{
+  colback=blue!5!white, 
+  colframe=blue!50!black, 
+  title=\textbf{Key Metrics / Timeline}, 
+  arc=1mm
+}
+
+% =========================================
+% 6. DOCUMENT METADATA
+% =========================================
+\title{\Huge \textbf{Current Affairs Short Notes}\\ \Large Monthly Summary \& Revision Modules}
+\author{}
+\date{\the\year}
+
+% =========================================
+% INDEXING CONFIGURATION
+% =========================================
+\usepackage{imakeidx}
+\indexsetup{level=\section*,toclevel=section,noclearpage}
+\makeindex[name=ch1,title=Index]
+\makeindex[name=ch2,title=Index]
+\makeindex[name=ch3,title=Index]
+\makeindex[name=ch4,title=Index]
+\makeindex[name=ch5,title=Index]
+\makeindex[name=ch6,title=Index]
+
+\let\stdindex\index
+\renewcommand{\index}[1]{\stdindex[ch\arabic{chapter}]{#1}}
+
+% =========================================
+% 7. CONTENT
+% =========================================
+\begin{document}
+
+\frontmatter
+\maketitle
+
+% Table of Contents
+{
+  \hypersetup{linkcolor=navyblue} 
+  \tableofcontents
+}
+
+\mainmatter
+
+% -------------------------------------------------------------------
+% INCLUDE COMPONENT MODULES / THEMES HERE
+% -------------------------------------------------------------------
+% Recommended: Split chapters by Month or General Studies Paper Categories
+
+\input{chapter1}
+\input{chapter2}
+\input{chapter3}
+\input{chapter4}
+\input{chapter5}
+\input{chapter6}
+
+\end{document}
