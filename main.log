@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  26 MAY 2026 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  27 MAY 2026 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,11 +643,21 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
  (main.toc
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 2.
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 175.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 175.
+ [3] [4
+
 
 ] (chapter1.tex
 Chapter 1.
@@ -663,31 +673,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (chapter2.tex [1
 
 
-
-
 ]
 Chapter 2.
-) (chapter3.tex [2
-
-
-]
-Chapter 3.
-) (chapter4.tex [3
-
-
-]
-Chapter 4.
-) (chapter5.tex [4
-
-
-]
-Chapter 5.
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 14.
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 6.
 (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 14.
+(Font)              scaled to size 10.95pt on input line 6.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -695,12 +688,53 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
+Underfull \hbox (badness 2173) in paragraph at lines 16--17
+\T1/XCharter-TLF/m/n/10.95 (+20) com-mer-cial, and in-sti-tu-tional re-quire-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\T1/XCharter-TLF/m/n/10.95 (+20) Inhabited by Par-tic-u-lar Vul-ner-a-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/XCharter-TLF/m/n/10.95 (+20) Tribal Groups (PVTGs): Shom-pens
+ []
+
+) (chapter3.tex [2
+
+{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+Chapter 3.
+) (chapter4.tex [3
+
+
+]
+Chapter 4.
+
+Underfull \hbox (badness 1675) in paragraph at lines 7--8
+\T1/XCharter-TLF/m/n/10.95 (+20) ply chain for \T1/XCharter-TLF/b/n/10.95 (+20) ACES \T1/XCharter-TLF/m/n/10.95 (+20) (\T1/XCharter-TLF/b/n/10.95 (+20) A\T1/XCharter-TLF/m/n/10.95 (+20) I, \T1/XCharter-TLF/b/n/10.95 (+20) C\T1/XCharter-TLF/m/n/10.95 (+20) ritical min-er-als,
+ []
+
+[4
+
+]
+Underfull \hbox (badness 3724) in paragraph at lines 44--45
+[]\T1/XCharter-TLF/b/n/10.95 (+20) Global En-gage-ment & Ca-pac-ity
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 57--58
+\T1/XCharter-TLF/b/n/10.95 (+20) At-ten-dant Visa \T1/XCharter-TLF/m/n/10.95 (+20) cat-e-gories (launched
+ []
+
+) (chapter5.tex [5]
+Chapter 5.
+
 Underfull \hbox (badness 1968) in paragraph at lines 14--15
 \T1/XCharter-TLF/m/n/10.95 (+20) sand-wich struc-ture of the fa-mous carbon-
  []
 
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 17.
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\T1/XCharter-TLF/b/n/10.95 (+20) New Carbon-Free
@@ -726,13 +760,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\T1/XCharter-TLF/m/n/10.95 (+20) Exceptionally strong
  []
 
-) (chapter6.tex [5
+) (chapter6.tex [6
 
-{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
 
 ]
 Chapter 6.
-) [6
+) [7
 
 
 ] (main.aux)
@@ -741,20 +774,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 48F3234075B9C5E82F79F47949E34AAC;4677.
+(rerunfilecheck)             Checksum: 550477BF37734B9CDF47B295CF2D9AF7;6532.
  ) 
 Here is how much of TeX's memory you used:
- 17501 strings out of 467871
- 289945 string characters out of 5418375
- 758319 words of memory out of 5000000
- 45963 multiletter control sequences out of 15000+600000
- 720831 words of font info for 140 fonts, out of 8000000 for 9000
+ 17664 strings out of 467871
+ 293368 string characters out of 5418375
+ 765321 words of memory out of 5000000
+ 45997 multiletter control sequences out of 15000+600000
+ 737188 words of font info for 201 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,10n,117p,1218b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on main.pdf (8 pages, 199553 bytes).
+ 69i,12n,117p,1218b,856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (11 pages, 236839 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 47337 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 51505 words of extra memory for PDF output out of 51595 (max. 10000000)
 
