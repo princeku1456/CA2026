@@ -20,7 +20,7 @@
 \contentsline {chapter}{\numberline {4}International Relations}{4}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Groupings}{4}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Major Initiatives and Agreements}{4}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Pan-Silica Initiative (US-led)}{4}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.1}Pax-Silica Initiative (US-led)}{4}{subsection.4.2.1}%
 \contentsline {section}{\numberline {4.3}Bilateral Relations}{4}{section.4.3}%
 \contentsline {section}{\numberline {4.4}India and the World}{4}{section.4.4}%
 \contentsline {section}{\numberline {4.5}UN and It's agreeements}{4}{section.4.5}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  27 MAY 2026 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  27 MAY 2026 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,7 +774,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 550477BF37734B9CDF47B295CF2D9AF7;6532.
+(rerunfilecheck)             Checksum: 1086E57DDDF749562F88BDD45B324749;6532.
  ) 
 Here is how much of TeX's memory you used:
  17664 strings out of 467871
@@ -785,7 +785,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  69i,12n,117p,1218b,856s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (11 pages, 236839 bytes).
+Output written on main.pdf (11 pages, 236840 bytes).
 PDF statistics:
  312 PDF objects out of 1000 (max. 8388607)
  77 named destinations out of 1000 (max. 500000)
