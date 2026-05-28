@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  27 MAY 2026 21:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  28 MAY 2026 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Latex_Projects/CA2026/main.tex
-(d:/Latex_Projects/CA2026/main.tex
+**d:/UPSC/CA2026/main.tex
+(d:/UPSC/CA2026/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
 (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -670,23 +670,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 |[]\T1/XCharter-TLF/b/n/12 (+20) Indian Con-sti-tu-ti-tion, Cit-i-zen-ship,
  []
 
-) (chapter2.tex [1
-
-
-]
-Chapter 2.
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 11.
 (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 6.
+(Font)              scaled to size 10.95pt on input line 11.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
+
+Underfull \hbox (badness 1845) in paragraph at lines 14--15
+[]\T1/XCharter-TLF/b/n/10.95 (+20) Allocation Model: \T1/XCharter-TLF/m/n/10.95 (+20) Flips the bottom-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 30--31
+[]\T1/XCharter-TLF/b/n/10.95 (+20) Dilution of Rights-Based Ap-proach:
+ []
+
+
+Underfull \vbox (badness 5274) has occurred while \output is active []
+
+ [1
+
+{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}] [2]) (chapter2.tex [3
+
+]
+Chapter 2.
 
 Underfull \hbox (badness 2173) in paragraph at lines 16--17
 \T1/XCharter-TLF/m/n/10.95 (+20) com-mer-cial, and in-sti-tu-tional re-quire-
@@ -702,11 +716,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 \T1/XCharter-TLF/m/n/10.95 (+20) Tribal Groups (PVTGs): Shom-pens
  []
 
-) (chapter3.tex [2
+) (chapter3.tex [4
 
-{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+]
 Chapter 3.
-) (chapter4.tex [3
+
+Underfull \hbox (badness 1838) in paragraph at lines 14--15
+[]\T1/XCharter-TLF/m/n/10.95 (+20) A rare drag-on-fly species, \T1/XCharter-TLF/m/it/10.95 (+20) Gy-nacan-tha
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 21--22
+\T1/XCharter-TLF/m/n/10.95 (+20) com-po-nents of fresh-wa-ter ecosys-tems,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 22--23
+[]\T1/XCharter-TLF/m/n/10.95 (+20) long-tailed duskhawker has also been
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 22--23
+\T1/XCharter-TLF/m/n/10.95 (+20) his-tor-i-cally doc-u-mented across As-sam,
+ []
+
+) (chapter4.tex [5
 
 
 ]
@@ -716,7 +750,7 @@ Underfull \hbox (badness 1675) in paragraph at lines 7--8
 \T1/XCharter-TLF/m/n/10.95 (+20) ply chain for \T1/XCharter-TLF/b/n/10.95 (+20) ACES \T1/XCharter-TLF/m/n/10.95 (+20) (\T1/XCharter-TLF/b/n/10.95 (+20) A\T1/XCharter-TLF/m/n/10.95 (+20) I, \T1/XCharter-TLF/b/n/10.95 (+20) C\T1/XCharter-TLF/m/n/10.95 (+20) ritical min-er-als,
  []
 
-[4
+[6
 
 ]
 Underfull \hbox (badness 3724) in paragraph at lines 44--45
@@ -728,7 +762,7 @@ Underfull \hbox (badness 3965) in paragraph at lines 57--58
 \T1/XCharter-TLF/b/n/10.95 (+20) At-ten-dant Visa \T1/XCharter-TLF/m/n/10.95 (+20) cat-e-gories (launched
  []
 
-) (chapter5.tex [5]
+) (chapter5.tex [7]
 Chapter 5.
 
 Underfull \hbox (badness 1968) in paragraph at lines 14--15
@@ -760,12 +794,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\T1/XCharter-TLF/m/n/10.95 (+20) Exceptionally strong
  []
 
-) (chapter6.tex [6
+) (chapter6.tex [8
 
 
 ]
 Chapter 6.
-) [7
+) [9
 
 
 ] (main.aux)
@@ -774,20 +808,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1086E57DDDF749562F88BDD45B324749;6532.
+(rerunfilecheck)             Checksum: 9FC56FBD6C49EC4FE3DBEBED864F6E70;7938.
  ) 
 Here is how much of TeX's memory you used:
- 17664 strings out of 467871
- 293368 string characters out of 5418375
- 765321 words of memory out of 5000000
- 45997 multiletter control sequences out of 15000+600000
- 737188 words of font info for 201 fonts, out of 8000000 for 9000
+ 17762 strings out of 467871
+ 295090 string characters out of 5418375
+ 766321 words of memory out of 5000000
+ 46001 multiletter control sequences out of 15000+600000
+ 744216 words of font info for 242 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,117p,1218b,856s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (11 pages, 236840 bytes).
+ 69i,12n,117p,1208b,856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (13 pages, 276867 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 51505 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 51537 words of extra memory for PDF output out of 51595 (max. 10000000)
 
