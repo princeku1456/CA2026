@@ -8,23 +8,28 @@
 % =========================================
 % 1. TYPOGRAPHY & ENCODING
 % =========================================
+% =========================================
+% 1. TYPOGRAPHY & ENCODING
+% =========================================
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{XCharter}           % Elegant serif for body text
-\usepackage{tfrupee}            % Rupee symbol
+\usepackage{libertine}              % Body text — warm, book-like
+\usepackage[libertine]{newtxmath}   % Matching math font
+\usepackage{tfrupee}
 \DeclareUnicodeCharacter{20B9}{\rupee}
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{float}
-\usepackage{microtype}          % Typography refinement
+\usepackage{microtype}
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \usepackage{array}
-\usepackage{booktabs}           % Professional tables
+\usepackage{booktabs}
 \usepackage{parskip}
 \usepackage{enumitem}
 \usepackage{amsmath}
 \usepackage{xcolor}
+\newcommand{\headingfont}{\libertine}
 
 % Line spacing for readability
 \linespread{1.15}
@@ -46,6 +51,8 @@
 \definecolor{headingcolor}{rgb}{0.2, 0.2, 0.2}
 \definecolor{lightgray}{rgb}{0.5, 0.5, 0.5}
 \definecolor{bluetext}{rgb}{0.0, 0.0, 0.8}  % Blue for TOC
+\definecolor{subsectioncolor}{rgb}{0.25, 0.15, 0.60}   % Steel blue
+\definecolor{sectioncolor}{rgb}{0.60, 0.13, 0.13} % Deep red
 
 % =========================================
 % 4. HYPERLINKS
@@ -84,7 +91,6 @@
 \usepackage{titlesec}
 
 % Style table of contents in blue (text only, not page numbers)
-\usepackage{tocloft}
 \renewcommand{\cftchapfont}{\bfseries\color{bluetext}}
 \renewcommand{\cftsecfont}{\color{bluetext}}
 \renewcommand{\cftsubsecfont}{\color{bluetext}}
@@ -103,15 +109,17 @@
   [\vspace{0.5em}\titlerule]
 
 % Section formatting
+% Section formatting
 \titleformat{\section}
-  {\bfseries\large}
+  {\headingfont\bfseries\large\color{sectioncolor}}
   {\thesection}
   {0.8em}
   {}
+  % \newcommand{\sectionbreak}{\clearpage}
 
 % Subsection formatting
 \titleformat{\subsection}
-  {\bfseries\normalsize}
+  {\headingfont\bfseries\normalsize\color{subsectioncolor}}
   {\thesubsection}
   {0.6em}
   {}
@@ -136,6 +144,7 @@
 % 8. DOCUMENT METADATA
 % =========================================
 \title{\fontsize{38}{44}\selectfont \textbf{Current Affairs}}
+\author{}
 % Displays the exact date of compilation alongside the current year
 \date{\small Last Updated: \today}
 
