@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1780030312.49744 "d:/UPSC/CA2026/main.tex" "main.pdf" "main" 1780030316.82593 0
+["pdflatex"] 1780030108.39206 "d:/UPSC/CA2026/main.tex" "main.pdf" "main" 1780030113.9139 2
   "C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1779786211 149895 fe3dba71826fc256b2ed6a05ab90a46e ""
   "C:/Users/princ/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1764152544 13333512 73fd4e86489fdb99b57543dccb24a791 ""
   "C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc" 1719043975 4020 e63ebbdab76ac8c53e3407b6e8ca6cbf ""
@@ -129,15 +129,14 @@
   "chapter1.tex" 1779970220 8628 66e60f8771b7dd4ae8a61794a3e21d74 ""
   "chapter2.tex" 1779970300 2915 3bcf795363d5bbdf0b513407a27a396e ""
   "chapter3.tex" 1779970264 1402 bd2a57239b19231ae842b51fbafdaefb ""
-  "chapter4.tex" 1780030312 9513 00af5592c9c671b6a790e523ae0a36a1 ""
+  "chapter4.tex" 1780030080 9490 1d38be8bbb768759f336cb99d7996f9e ""
   "chapter5.tex" 1779944814 1381 0ee9e66043af4f140a66d65adfac550a ""
   "chapter6.tex" 1779970840 33 1771cda64a3183d64358b2700e50b2ea ""
-  "chapter7.tex" 1779970828 23 ec78f538e2e90e5d8197200e1152cfeb ""
-  "d:/UPSC/CA2026/main.tex" 1780030154 5144 8d39a89d451cd265d577273079d4ce61 ""
-  "main.aux" 1780030318 7488 f7a8ba54c49b9766b3b814f4610dd4dd "pdflatex"
-  "main.out" 1780030318 10274 42257c3aa263857a38fe3fcac8eb2af6 "pdflatex"
-  "main.tex" 1780030154 5144 8d39a89d451cd265d577273079d4ce61 ""
-  "main.toc" 1780030318 4614 8820c464382e397c0ea99ddbc7e3ade8 "pdflatex"
+  "d:/UPSC/CA2026/main.tex" 1779944814 5126 2ac3cc77343d5ca9ac156051f334447e ""
+  "main.aux" 1780030114 7301 858b1e88f6f581385b9893e3b80f734a "pdflatex"
+  "main.out" 1780030114 10165 53a8a400da850ae498cbe812f14ded91 "pdflatex"
+  "main.tex" 1779944814 5126 2ac3cc77343d5ca9ac156051f334447e ""
+  "main.toc" 1780030114 4544 c2f38b97bde550a4462080d955691031 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
