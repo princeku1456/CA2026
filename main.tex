@@ -55,17 +55,6 @@
 \definecolor{sectioncolor}{rgb}{0.60, 0.13, 0.13} % Deep red
 
 % =========================================
-% 4. HYPERLINKS
-% =========================================
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    urlcolor=blue,
-    citecolor=blue
-}
-
-% =========================================
 % 5. TABLE COLUMN TYPES
 % =========================================
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
@@ -139,10 +128,19 @@
 \titlespacing*{\subsubsection}{0pt}{8pt}{3pt}
 
 % =========================================
-% 8. DOCUMENT METADATA
+% 8. HYPERLINKS & BOOKMARKS
 % =========================================
+\usepackage{hyperref}
+\usepackage{bookmark}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
+}
+
 % =========================================
-% 8. DOCUMENT METADATA
+% 9. DOCUMENT METADATA
 % =========================================
 \title{\fontsize{38}{44}\selectfont \textbf{Current Affairs}}
 \author{}
@@ -150,7 +148,7 @@
 \date{\small Last Updated: \today}
 
 % =========================================
-% 9. CUSTOM COMMANDS
+% 10. CUSTOM COMMANDS
 % =========================================
 
 % Key term highlighting (bold, no color)
