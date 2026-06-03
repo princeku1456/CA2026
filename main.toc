@@ -6,7 +6,7 @@
 \contentsline {section}{\numberline {1.4}governance}{2}{section.1.4}%
 \contentsline {section}{\numberline {1.5}bills}{2}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}Transition from MGNREGA to VB-GRAM G Act, 2025: Analysis of Draft Rules}{2}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Promotion and Regulation of Online Gaming (PROG) Rules, 2026}{3}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.2}Promotion and Regulation of Online Gaming (PROG) Rules, 2026}{2}{subsection.1.5.2}%
 \contentsline {section}{\numberline {1.6}judgements}{4}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}Supreme Court Judgement on Special Intensive Revision (SIR) of Electoral Rolls}{4}{subsection.1.6.1}%
 \contentsline {section}{\numberline {1.7}miscellaneous}{6}{section.1.7}%
@@ -20,20 +20,20 @@
 \contentsline {subsection}{\numberline {2.5.1}The Great Nicobar Project: Strategic, Economic and Ecological Framework}{9}{subsection.2.5.1}%
 \contentsline {section}{\numberline {2.6}Pillar 6: Human Resource Development (HRD)}{10}{section.2.6}%
 \contentsline {subsection}{\numberline {2.6.1}Women-Led Development: Welfare to Empowerment (2014--2026)}{10}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Skilling India for a Future-Ready Workforce (Budget 2026--27 \& Policy Framework)}{13}{subsection.2.6.2}%
-\contentsline {paragraph}{Education}{13}{paragraph*.2}%
-\contentsline {paragraph}{Textiles \& Apparel}{13}{paragraph*.3}%
-\contentsline {paragraph}{Health}{13}{paragraph*.4}%
-\contentsline {paragraph}{AYUSH}{13}{paragraph*.5}%
+\contentsline {subsection}{\numberline {2.6.2}Skilling India for a Future-Ready Workforce (Budget 2026--27 \& Policy Framework)}{12}{subsection.2.6.2}%
+\contentsline {paragraph}{Education}{12}{paragraph*.2}%
+\contentsline {paragraph}{Textiles \& Apparel}{12}{paragraph*.3}%
+\contentsline {paragraph}{Health}{12}{paragraph*.4}%
+\contentsline {paragraph}{AYUSH}{12}{paragraph*.5}%
 \contentsline {paragraph}{Livestock}{13}{paragraph*.6}%
 \contentsline {paragraph}{Orange Economy (AVGC)}{13}{paragraph*.7}%
 \contentsline {paragraph}{Design}{13}{paragraph*.8}%
 \contentsline {paragraph}{Tourism}{13}{paragraph*.9}%
-\contentsline {paragraph}{Sports}{14}{paragraph*.10}%
-\contentsline {paragraph}{PMKVY / PMKVY 4.0}{14}{paragraph*.11}%
-\contentsline {paragraph}{Jan Shikshan Sansthan (JSS)}{14}{paragraph*.12}%
-\contentsline {paragraph}{NAPS / NAPS 2.0}{14}{paragraph*.13}%
-\contentsline {paragraph}{Craftsmen Training Scheme (CTS)}{14}{paragraph*.14}%
+\contentsline {paragraph}{Sports}{13}{paragraph*.10}%
+\contentsline {paragraph}{PMKVY / PMKVY 4.0}{13}{paragraph*.11}%
+\contentsline {paragraph}{Jan Shikshan Sansthan (JSS)}{13}{paragraph*.12}%
+\contentsline {paragraph}{NAPS / NAPS 2.0}{13}{paragraph*.13}%
+\contentsline {paragraph}{Craftsmen Training Scheme (CTS)}{13}{paragraph*.14}%
 \contentsline {chapter}{\numberline {3}Environment}{15}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Environmental Laws and policies}{16}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Climate Change, Carbon Credit, ETS}{16}{section.3.2}%
@@ -51,7 +51,7 @@
 \contentsline {section}{\numberline {4.3}Bilateral Relations}{20}{section.4.3}%
 \contentsline {section}{\numberline {4.4}India and the World}{20}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}India's West Asia Policy: Framework, Interventions, and Strategic Balancing}{20}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}India-Netherlands Strategic Partnership (2026--2030): Framework and Outcomes}{21}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.2}India-Netherlands Strategic Partnership (2026--2030): Framework and Outcomes}{20}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}UN and It's agreeements}{22}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Miscellaneous}{22}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Medical and Wellness Tourism in India}{22}{subsection.4.6.1}%
