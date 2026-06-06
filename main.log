@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  5 JUN 2026 10:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  6 JUN 2026 19:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -954,158 +954,205 @@ Chapter 2.
 
 
 
-] [8
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \hbox (badness 3364) in paragraph at lines 40--41
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Budget (Dept. of Agri. & Farm-ers Wel-fare):
+ []
+
+[8
 
 ]
-Underfull \hbox (badness 6944) in paragraph at lines 49--50
+Underfull \hbox (badness 7649) in paragraph at lines 77--78
+[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) PKVY \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) (Param-para-gat Kr-ishi Vikas Yo-jana):
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 78--79
+[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) MOVCDNER \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) (NE Or-ganic): 2.36 lakh ha;
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 97--98
+\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Rs. 84,202 cr sanc-tioned; 1.68 lakh projects;
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 131--132
+[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) PMFME \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) (2020-21): 4,04,062 ap-pli-ca-tions sup-
+ []
+
+[9] [10]
+Underfull \hbox (badness 6944) in paragraph at lines 202--203
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) planned ur-ban cen-ter span-ning 16,610
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 62--63
+Underfull \hbox (badness 3118) in paragraph at lines 215--216
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) No Dis-place-ment/Relocation: \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Project
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 62--63
+Underfull \hbox (badness 2486) in paragraph at lines 215--216
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) aligns with the Shom-pen Pol-icy (2015),
  []
 
-[9
+[11
 
 ]
-Underfull \hbox (badness 2922) in paragraph at lines 86--88
+Underfull \hbox (badness 2922) in paragraph at lines 239--241
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Pradhan Mantri Surak-shit Ma-tritva Ab-hiyan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 []\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Residential schools (Class VI--XII) for
  []
 
-[10
+[12
 
 ]
-Underfull \hbox (badness 1762) in paragraph at lines 168--170
+Underfull \hbox (badness 1762) in paragraph at lines 321--323
 \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Sukanya Sam-rid-dhi Yo-jana (SSY) \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) [2015, un-der
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 212--213
+Underfull \hbox (badness 2538) in paragraph at lines 365--366
 []\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Women SHG/enterprise prod-ucts on Gov-ern-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 225--226
+Underfull \hbox (badness 1248) in paragraph at lines 378--379
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) -- Shakti Sadan, Sakhi Ni-was, Palna Creches,
  []
 
-[11]
+[13]
 LaTeX Info: Symbol \textuparrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 272.
+            Default family used instead on input line 425.
  (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-Underfull \hbox (badness 6252) in paragraph at lines 281--282
+Underfull \hbox (badness 6252) in paragraph at lines 434--435
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) National Fi-bre Scheme \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) -- self-reliance in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) National Hand-loom and Hand-i-craft
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Pro-gramme \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) -- in-te-grate schemes, sup-port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--292
+Underfull \hbox (badness 10000) in paragraph at lines 443--445
 [] []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Health[] \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Out-lay: \U/tfrupee/m/n/10.95 |\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) 980 crore \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) (3 yrs) for al-
  []
 
-[12]
-Underfull \hbox (badness 7064) in paragraph at lines 302--303
+[14]
+Underfull \hbox (badness 7064) in paragraph at lines 455--456
 []\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Upgradation of \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) WHO Global Tra-di-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Loan-linked cap-i-tal sub-sidy\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) : pri-vate
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 307--308
+Underfull \hbox (badness 7151) in paragraph at lines 460--461
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) veterinary/para-vet col-leges, hos-pi-tals, di-ag-
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 310.
+            Default family used instead on input line 463.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 328.
+            Default family used instead on input line 481.
 LaTeX Info: Symbol \textuparrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 328.
+            Default family used instead on input line 481.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 331.
+            Default family used instead on input line 484.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 338.
+            Default family used instead on input line 491.
 
-Underfull \hbox (badness 3701) in paragraph at lines 342--343
+Underfull \hbox (badness 3701) in paragraph at lines 495--496
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) 16,900+ in-sti-tu-tions\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) ; 6,800+ Skill Hubs in
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 345--347
+Underfull \hbox (badness 1210) in paragraph at lines 498--500
 [] []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Jan Shik-shan Sansthan (JSS)[] \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Ori-gin: Shramik
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 []\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Target: non-literates, neo-literates, school
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 348--349
+Underfull \hbox (badness 1389) in paragraph at lines 501--502
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) 36,48,692 ben-e-fi-cia-ries \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) trained (2018--March
  []
 
 LaTeX Info: Symbol \textuparrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 365.
+            Default family used instead on input line 518.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 365.
-[13]
-Underfull \hbox (badness 1097) in paragraph at lines 372--373
+            Default family used instead on input line 518.
+[15]
+Underfull \hbox (badness 1097) in paragraph at lines 525--526
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) In-dus-try Part-ners (AIPs) for co-ownership/co-
  []
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
-            Default family used instead on input line 373.
+            Default family used instead on input line 526.
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) 5 Na-tional Skill Train-ing In-sti-tutes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) (Bhubaneswar, Chen-nai, Hy-der-abad, Kan-
  []
 
-[14
+
+Underfull \hbox (badness 1122) in paragraph at lines 569--570
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Launched: Oct 25, 2021; Out-lay: \U/tfrupee/m/n/10.95 |\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) 64,180 cr
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 582--583
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) QR-based ap-point-ment reg-is-tra-tion; evidence-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
+[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) JSY\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) : Facility-based de-liv-ery in-cen-tives for
+ []
+
+[16]
+Underfull \hbox (badness 6141) in paragraph at lines 607--608
+[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) UIP\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) : 2.67 cr new-borns + 2.9 cr preg-nant
+ []
+
+[17] [18
 
 ]) (chapter3.tex
 Chapter 3.
-[15
+[19
 
 
 
@@ -1124,7 +1171,7 @@ Underfull \hbox (badness 1412) in paragraph at lines 21--22
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) po-nents of fresh-wa-ter ecosys-tems, func-
  []
 
-[16
+[20
 
 {C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}
 
@@ -1138,7 +1185,7 @@ Underfull \hbox (badness 6380) in paragraph at lines 59--60
 []\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Wetlands (Con-ser-va-tion & Man-age-ment)
  []
 
-[17
+[21
 
 ]
 Underfull \hbox (badness 5667) in paragraph at lines 114--115
@@ -1165,19 +1212,19 @@ Underfull \hbox (badness 1137) in paragraph at lines 128--129
 []\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Launched un-der \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Green Credit Rules, 2023\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) ;
  []
 
-[18]
+[22]
 Underfull \hbox (badness 1990) in paragraph at lines 145--146
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) India--UK Green Grids Ini-tia-tive launched at
  []
 
-) (chapter4.tex [19
+) (chapter4.tex [23
 
 ]
 Chapter 4.
-[20
+[24
 
 
-] [21
+] [25
 
 
 ]
@@ -1195,7 +1242,7 @@ Underfull \hbox (badness 6125) in paragraph at lines 52--52
 |[]\T1/LinuxLibertineT-TLF/b/n/10.95 (+20) India-Netherlands Strate-gic Part-ner-ship
  []
 
-[22
+[26
 
 ]
 Underfull \hbox (badness 1596) in paragraph at lines 72--73
@@ -1207,7 +1254,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 83--84
 \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) part-ner-ship tar-get-ing in-fec-tious dis-eases,
  []
 
-[23
+[27
 
 ]
 Underfull \hbox (badness 1210) in paragraph at lines 113--114
@@ -1239,18 +1286,18 @@ Underfull \hbox (badness 2753) in paragraph at lines 123--124
 \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) Build-ing: \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) MVT re-mains a cen-tral
  []
 
-[24
+[28
 
 ]
 Underfull \hbox (badness 2529) in paragraph at lines 130--131
 \T1/LinuxLibertineT-TLF/b/n/10.95 (+20) five \T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Re-gional Med-i-cal Hubs via Public-
  []
 
-) (chapter5.tex [25
+) (chapter5.tex [29
 
 ]
 Chapter 5.
-[26
+[30
 
 
 ]
@@ -1269,7 +1316,7 @@ LaTeX Info: Symbol \textrightarrow not provided by
 LaTeX Info: Symbol \textrightarrow not provided by
             font family LinuxLibertineT-TLF in TS1 encoding.
             Default family used instead on input line 48.
- [27
+ [31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
@@ -1301,18 +1348,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\T1/LinuxLibertineT-TLF/m/n/10.95 (+20) Exceptionally strong
  []
 
-) (chapter6.tex [28
+) (chapter6.tex [32
 
 
 ]
 Chapter 6.
-[29
+[33
 
-]) (chapter7.tex [30
+]) (chapter7.tex [34
 
 ]
 Chapter 7.
-) [31
+) [35
 
 
 ] (main.aux)
@@ -1322,17 +1369,17 @@ L3 programming layer <2025-11-06>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 21002 strings out of 467871
- 341689 string characters out of 5418375
+ 21020 strings out of 467871
+ 341960 string characters out of 5418375
  775654 words of memory out of 5000000
- 49015 multiletter control sequences out of 15000+600000
- 748395 words of font info for 349 fonts, out of 8000000 for 9000
+ 49021 multiletter control sequences out of 15000+600000
+ 749031 words of font info for 353 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,117p,1218b,858s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\princ\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/tfrupee/tfrupee.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (35 pages, 520142 bytes).
+Output written on main.pdf (39 pages, 550040 bytes).
 PDF statistics:
- 618 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 60881 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 648 PDF objects out of 1000 (max. 8388607)
+ 189 named destinations out of 1000 (max. 500000)
+ 60897 words of extra memory for PDF output out of 61914 (max. 10000000)
 
