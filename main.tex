@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Clean & Minimal LaTeX Book Template          %%
-%% For Personal Study Notes                     %%
+%% Current Affairs — UPSC Study Notes           %%
+%% Jewel-tone Edition                           %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[a4paper,11pt,twoside,openany,twocolumn]{book}
@@ -8,13 +8,10 @@
 % =========================================
 % 1. TYPOGRAPHY & ENCODING
 % =========================================
-% =========================================
-% 1. TYPOGRAPHY & ENCODING
-% =========================================
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{libertine}              % Body text — warm, book-like
-\usepackage[libertine]{newtxmath}   % Matching math font
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
 \usepackage{tfrupee}
 \DeclareUnicodeCharacter{20B9}{\rupee}
 \usepackage{graphicx}
@@ -25,34 +22,50 @@
 \usepackage{tabularx}
 \usepackage{array}
 \usepackage{booktabs}
+\usepackage[titles]{tocloft}
 \usepackage{parskip}
 \usepackage{enumitem}
 \usepackage{amsmath}
 \usepackage{xcolor}
 \newcommand{\headingfont}{\libertine}
 
-% Line spacing for readability
 \linespread{1.15}
 
 % =========================================
 % 2. PAGE LAYOUT & MARGINS
 % =========================================
-\usepackage[a4paper, inner=1.5cm, outer=1.5cm, top=1.5cm, bottom=1.5cm]{geometry}
+\usepackage[a4paper, inner=1.5cm, outer=1.5cm, top=1.5cm, bottom=1.5cm, headheight=15pt]{geometry}
 \usepackage{wrapfig}
 
-% Two-column configuration
 \setlength{\columnsep}{1cm}
 \setlength{\columnseprule}{0pt}
 
 % =========================================
-% 3. COLORS - MINIMAL PALETTE
+% 3. COLORS — JEWEL-TONE PALETTE
 % =========================================
-\definecolor{darktext}{rgb}{0.1, 0.1, 0.1}
-\definecolor{headingcolor}{rgb}{0.2, 0.2, 0.2}
-\definecolor{lightgray}{rgb}{0.5, 0.5, 0.5}
-\definecolor{bluetext}{rgb}{0.0, 0.0, 0.8}  % Blue for TOC
-\definecolor{subsectioncolor}{rgb}{0.25, 0.15, 0.60}   % Steel blue
-\definecolor{sectioncolor}{rgb}{0.60, 0.13, 0.13} % Deep red
+\definecolor{darktext}{rgb}{0.08, 0.06, 0.12}       % Near-black with indigo tint
+
+% -- Heading jewel tones --
+\definecolor{sectioncolor}{RGB}{162, 28, 28}         % Deep crimson
+\definecolor{subsectioncolor}{RGB}{74, 35, 90}       % Imperial violet
+\definecolor{subsubsectioncolor}{RGB}{30, 72, 120}   % Oxford blue
+
+% -- Accent & rule --
+\definecolor{goldrule}{RGB}{180, 120, 20}            % Aged gold for rules
+\definecolor{chapterbadge}{RGB}{26, 10, 46}          % Deep indigo for chapter display
+
+% -- TOC & links --
+\definecolor{toclink}{RGB}{28, 58, 107}              % Oxford navy
+\definecolor{urlcolor}{RGB}{20, 90, 140}             % Muted teal-blue
+
+% -- Column separator (subtle) --
+\definecolor{colsepcolor}{RGB}{180, 120, 20}
+
+% =========================================
+% 4. COLUMN SEPARATOR (gold hairline)
+% =========================================
+\setlength{\columnseprule}{0pt}
+\def\columnseprulecolor{\color{goldrule}}
 
 % =========================================
 % 5. TABLE COLUMN TYPES
@@ -68,9 +81,23 @@
 \pagestyle{fancy}
 \fancyhf{}
 
-\fancyhead[LE]{\small\thepage \hspace{0.8cm} \itshape\leftmark}
-\fancyhead[RO]{\itshape\rightmark \hspace{0.8cm} \small\thepage}
-\renewcommand{\headrulewidth}{0.5pt}
+% Gold rule under header
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\headrule}{%
+  {\color{goldrule}\hrule width\headwidth height\headrulewidth}%
+}
+
+\fancyhead[LE]{%
+  \hyperlink{toc}{{\color{goldrule}\small\bfseries\thepage}}%
+  \hspace{0.8cm}%
+  \hyperlink{toc}{{\color{subsubsectioncolor}\small\itshape\leftmark}}%
+}
+\fancyhead[RO]{%
+  \hyperlink{toc}{{\color{subsubsectioncolor}\small\itshape\rightmark}}%
+  \hspace{0.8cm}%
+  \hyperlink{toc}{{\color{goldrule}\small\bfseries\thepage}}%
+}
+
 \renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
 \renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
 
@@ -78,48 +105,52 @@
 % 7. TITLE FORMATTING (titlesec)
 % =========================================
 \usepackage{titlesec}
-\usepackage[titles]{tocloft}
 
-% Style table of contents in blue (text only, not page numbers)
-\renewcommand{\cftchapfont}{\bfseries\color{bluetext}}
-\renewcommand{\cftsecfont}{\color{bluetext}}
-\renewcommand{\cftsubsecfont}{\color{bluetext}}
+% TOC — Oxford navy links, tighter spacing
+\renewcommand{\cftchapfont}{\bfseries\color{toclink}}
+\renewcommand{\cftsecfont}{\color{toclink}}
+\renewcommand{\cftsubsecfont}{\small\color{toclink}}
+\renewcommand{\cftchapleader}{\color{goldrule}\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecleader}{\color{goldrule}\cftdotfill{\cftdotsep}}
 
-% Reduce spacing in TOC for better page breaks
 \setlength{\cftbeforechapskip}{3pt}
 \setlength{\cftbeforesecskip}{2pt}
 \setlength{\cftbeforesubsecskip}{1pt}
 
-% Chapter formatting - clean and simple
+% ── CHAPTER: badge-style panel ──
+% Double gold rule wrapping a display line;
+% chapter number sits in small-caps above the title.
 \titleformat{\chapter}[display]
-  {\bfseries\Large}
-  {\chaptername\ \thechapter}
-  {0.5em}
-  {\titlerule\vspace{0.5em}}
-  [\vspace{0.5em}\titlerule]
+  {\bfseries\Large\color{darktext}}
+  {%
+    {\color{goldrule}\titlerule[1.2pt]}%
+    \vspace{4pt}%
+    {\normalfont\small\scshape\color{goldrule}\chaptername\ \thechapter}%
+  }
+  {2pt}
+  {\vspace{2pt}}
+  [{\vspace{6pt}\color{goldrule}\titlerule[1.2pt]}]
 
-% Section formatting
-% Section formatting
+% ── SECTION: crimson, with left gold bar via \llap ──
 \titleformat{\section}
   {\headingfont\bfseries\large\color{sectioncolor}}
-  {\thesection}
-  {0.8em}
+  {%
+    \llap{{\color{goldrule}\rule[-2pt]{2.5pt}{11pt}}\hspace{5pt}}%
+    \thesection
+  }
+  {0.7em}
   {}
-\newcommand{\sectionbreak}{\clearpage}
 
-% Subsection formatting
+% ── SUBSECTION: imperial violet ──
 \titleformat{\subsection}
   {\headingfont\bfseries\normalsize\color{subsectioncolor}}
   {\thesubsection}
   {0.6em}
   {}
 
-% \newcommand{\subsectionbreak}{\clearpage}
-
-
-% Subsubsection formatting
+% ── SUBSUBSECTION: Oxford blue italic ──
 \titleformat{\subsubsection}
-  {\itshape\normalsize}
+  {\itshape\normalsize\color{subsubsectioncolor}}
   {\thesubsubsection}
   {0.5em}
   {}
@@ -137,9 +168,9 @@
 \usepackage{bookmark}
 \hypersetup{
     colorlinks=true,
-    linkcolor=blue,
-    urlcolor=blue,
-    citecolor=blue
+    linkcolor=toclink,
+    urlcolor=urlcolor,
+    citecolor=subsectioncolor
 }
 
 % =========================================
@@ -147,20 +178,19 @@
 % =========================================
 \title{\fontsize{38}{44}\selectfont \textbf{Current Affairs}}
 \author{}
-% Displays the exact date of compilation alongside the current year
 \date{\small Last Updated: \today}
 
 % =========================================
 % 10. CUSTOM COMMANDS
 % =========================================
+\newcommand{\keyterm}[1]{\textbf{\color{sectioncolor}#1}}
 
-% Key term highlighting (bold, no color)
-\newcommand{\keyterm}[1]{\textbf{#1}}
-
-% Definition command
 \newcommand{\definition}[2]{%
-  \noindent\textbf{#1:} #2\par
+  \noindent{\bfseries\color{subsectioncolor}#1:} #2\par
 }
+
+% Gold horizontal rule shorthand (useful between dense bullet blocks)
+\newcommand{\goldrule}{\vspace{4pt}{\color{goldrule}\hrule height 0.5pt}\vspace{4pt}}
 
 % =========================================
 % BEGIN DOCUMENT
@@ -170,22 +200,32 @@
 \frontmatter
 
 % Title Page
+\begingroup
+\thispagestyle{empty}
+\pagestyle{empty}
+\setlength{\columnseprule}{0pt}
 \twocolumn[%
   \begin{center}
     \vspace*{3cm}
     \maketitle
-    \vspace*{1cm}
-    \hrule
+    \thispagestyle{empty}
+    \vspace*{0.5cm}
+    {\color{goldrule}\rule{\textwidth}{1.2pt}}
     \vspace*{2cm}
   \end{center}
 ]
+\thispagestyle{empty}
+\clearpage
+\endgroup
 
 % Table of Contents
 \onecolumn
+\hypertarget{toc}{}
 \tableofcontents
 \twocolumn
 
 \mainmatter
+\setlength{\columnseprule}{0.4pt}
 
 % Include chapter files
 \input{chapter1}

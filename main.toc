@@ -1,77 +1,77 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Polity}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Indian Constitutition, Citizenship, Union and its Territory, FR, DPSP, FD}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Executive, Legislature \& Judiciary}{2}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Local Government, Constitutional Bodies, non-constitutional Bodies, Election}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}governance}{2}{section.1.4}%
-\contentsline {section}{\numberline {1.5}bills}{2}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Transition from MGNREGA to VB-GRAM G Act, 2025: Analysis of Draft Rules}{2}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Promotion and Regulation of Online Gaming (PROG) Rules, 2026}{2}{subsection.1.5.2}%
-\contentsline {section}{\numberline {1.6}judgements}{4}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Supreme Court Judgement on Special Intensive Revision (SIR) of Electoral Rolls}{4}{subsection.1.6.1}%
-\contentsline {section}{\numberline {1.7}miscellaneous}{6}{section.1.7}%
-\contentsline {chapter}{\numberline {2}Economy}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Pillar 1: Money, Banking, Finance \& Insurance}{8}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Pillar 2: Budget, Taxation \& Public Finance}{8}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Pillar 3: Balance of Payments (BoP) \& International Trade}{8}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Pillar 4: Sectors of Economy, GDP \& Inflation}{8}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Union Budget 2026--27: Key Manufacturing Hub Announcements}{8}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Empowering India's Annadatas: Agricultural Transformation (2014--2026)}{8}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Ease of Doing Business (EoDB): India's Business Framework Reforms}{10}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Pillar 5: Infrastructure}{14}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}The Great Nicobar Project: Strategic, Economic and Ecological Framework}{14}{subsection.2.5.1}%
-\contentsline {section}{\numberline {2.6}Pillar 6: Human Resource Development (HRD)}{15}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Women-Led Development: Welfare to Empowerment (2014--2026)}{15}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Skilling India for a Future-Ready Workforce (Budget 2026--27 \& Policy Framework)}{17}{subsection.2.6.2}%
-\contentsline {paragraph}{Education}{17}{paragraph*.2}%
-\contentsline {paragraph}{Textiles \& Apparel}{17}{paragraph*.3}%
-\contentsline {paragraph}{Health}{17}{paragraph*.4}%
-\contentsline {paragraph}{AYUSH}{17}{paragraph*.5}%
-\contentsline {paragraph}{Livestock}{18}{paragraph*.6}%
-\contentsline {paragraph}{Orange Economy (AVGC)}{18}{paragraph*.7}%
-\contentsline {paragraph}{Design}{18}{paragraph*.8}%
-\contentsline {paragraph}{Tourism}{18}{paragraph*.9}%
-\contentsline {paragraph}{Sports}{18}{paragraph*.10}%
-\contentsline {paragraph}{PMKVY / PMKVY 4.0}{18}{paragraph*.11}%
-\contentsline {paragraph}{Jan Shikshan Sansthan (JSS)}{18}{paragraph*.12}%
-\contentsline {paragraph}{NAPS / NAPS 2.0}{18}{paragraph*.13}%
-\contentsline {paragraph}{Craftsmen Training Scheme (CTS)}{18}{paragraph*.14}%
-\contentsline {subsection}{\numberline {2.6.3}India's Health Transformation}{19}{subsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.6.4}Empowering the Poor: A Decade of Inclusive Transformation (2014--2026)}{21}{subsection.2.6.4}%
-\contentsline {chapter}{\numberline {3}Environment}{24}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Environmental Laws and policies}{25}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Climate Change, Carbon Credit, ETS}{25}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Environmental Convention and bodies}{25}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Pollution}{25}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Biodiversity}{25}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Protected Areas}{25}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Species}{25}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Rediscovery of Gynacantha khasiaca (Long-tailed Duskhawker)}{25}{subsection.3.7.1}%
-\contentsline {section}{\numberline {3.8}Miscellaneous}{26}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}India's Green Transformation (2014--2026)}{26}{subsection.3.8.1}%
-\contentsline {chapter}{\numberline {4}International Relations}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Groupings}{30}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Major Initiatives and Agreements}{30}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Pax-Silica Initiative (US-led)}{30}{subsection.4.2.1}%
-\contentsline {section}{\numberline {4.3}Bilateral Relations}{31}{section.4.3}%
-\contentsline {section}{\numberline {4.4}India and the World}{31}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}India's West Asia Policy: Framework, Interventions, and Strategic Balancing}{31}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}India-Netherlands Strategic Partnership (2026--2030): Framework and Outcomes}{31}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}UN and It's agreeements}{33}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Miscellaneous}{33}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Medical and Wellness Tourism in India}{33}{subsection.4.6.1}%
-\contentsline {chapter}{\numberline {5}Science and Technology}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Space Tech}{36}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Science Collaboration as Space Compass: NASA's Lunar South Pole Mission \& Geopolitics of Space}{36}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}Defence Tech}{37}{section.5.2}%
-\contentsline {section}{\numberline {5.3}IT and communication Tech}{37}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Health}{37}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Energy}{37}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Bio Tech}{37}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Nuclear Tech}{37}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Miscellaneous}{37}{section.5.8}%
-\contentsline {subsection}{\numberline {5.8.1}Major Chemistry Breakthrough: Carbon-Free Sandwich Molecule}{37}{subsection.5.8.1}%
-\contentsline {subsubsection}{Comparative Analysis: Ferrocene vs. The New Molecule}{37}{subsubsection*.15}%
-\contentsline {chapter}{\numberline {6}Internal Security}{38}{chapter.6}%
-\contentsline {subsection}{\numberline {6.0.1}Left Wing Extremism (LWE) — From Red Corridor to Naxal-Free Bharat (2014–2025)}{38}{subsection.6.0.1}%
-\contentsline {chapter}{\numberline {7}Miscellaneous}{40}{chapter.7}%
+\contentsline {section}{\numberline {1.1}Indian Constitutition, Citizenship, Union and its Territory, FR, DPSP, FD}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Executive, Legislature \& Judiciary}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Local Government, Constitutional Bodies, non-constitutional Bodies, Election}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}governance}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5}bills}{1}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Transition from MGNREGA to VB-GRAM G Act, 2025: Analysis of Draft Rules}{1}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Promotion and Regulation of Online Gaming (PROG) Rules, 2026}{1}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}judgements}{2}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Supreme Court Judgement on Special Intensive Revision (SIR) of Electoral Rolls}{2}{subsection.1.6.1}%
+\contentsline {section}{\numberline {1.7}miscellaneous}{4}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Economy}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Pillar 1: Money, Banking, Finance \& Insurance}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Pillar 2: Budget, Taxation \& Public Finance}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Pillar 3: Balance of Payments (BoP) \& International Trade}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Pillar 4: Sectors of Economy, GDP \& Inflation}{5}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Union Budget 2026--27: Key Manufacturing Hub Announcements}{5}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Empowering India's Annadatas: Agricultural Transformation (2014--2026)}{5}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Ease of Doing Business (EoDB): India's Business Framework Reforms}{7}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Pillar 5: Infrastructure}{10}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}The Great Nicobar Project: Strategic, Economic and Ecological Framework}{10}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}Pillar 6: Human Resource Development (HRD)}{11}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Women-Led Development: Welfare to Empowerment (2014--2026)}{11}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Skilling India for a Future-Ready Workforce (Budget 2026--27 \& Policy Framework)}{13}{subsection.2.6.2}%
+\contentsline {paragraph}{Education}{13}{paragraph*.2}%
+\contentsline {paragraph}{Textiles \& Apparel}{13}{paragraph*.3}%
+\contentsline {paragraph}{Health}{14}{paragraph*.4}%
+\contentsline {paragraph}{AYUSH}{14}{paragraph*.5}%
+\contentsline {paragraph}{Livestock}{14}{paragraph*.6}%
+\contentsline {paragraph}{Orange Economy (AVGC)}{14}{paragraph*.7}%
+\contentsline {paragraph}{Design}{14}{paragraph*.8}%
+\contentsline {paragraph}{Tourism}{14}{paragraph*.9}%
+\contentsline {paragraph}{Sports}{14}{paragraph*.10}%
+\contentsline {paragraph}{PMKVY / PMKVY 4.0}{14}{paragraph*.11}%
+\contentsline {paragraph}{Jan Shikshan Sansthan (JSS)}{14}{paragraph*.12}%
+\contentsline {paragraph}{NAPS / NAPS 2.0}{15}{paragraph*.13}%
+\contentsline {paragraph}{Craftsmen Training Scheme (CTS)}{15}{paragraph*.14}%
+\contentsline {subsection}{\numberline {2.6.3}India's Health Transformation}{15}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Empowering the Poor: A Decade of Inclusive Transformation (2014--2026)}{17}{subsection.2.6.4}%
+\contentsline {chapter}{\numberline {3}Environment}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Environmental Laws and policies}{20}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Climate Change, Carbon Credit, ETS}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Environmental Convention and bodies}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Pollution}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Biodiversity}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Protected Areas}{20}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Species}{20}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Rediscovery of Gynacantha khasiaca (Long-tailed Duskhawker)}{20}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3.8}Miscellaneous}{20}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}India's Green Transformation (2014--2026)}{20}{subsection.3.8.1}%
+\contentsline {chapter}{\numberline {4}International Relations}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Groupings}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Major Initiatives and Agreements}{23}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Pax-Silica Initiative (US-led)}{23}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Bilateral Relations}{23}{section.4.3}%
+\contentsline {section}{\numberline {4.4}India and the World}{23}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}India's West Asia Policy: Framework, Interventions, and Strategic Balancing}{23}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}India-Netherlands Strategic Partnership (2026--2030): Framework and Outcomes}{24}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}UN and It's agreeements}{24}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Miscellaneous}{24}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Medical and Wellness Tourism in India}{24}{subsection.4.6.1}%
+\contentsline {chapter}{\numberline {5}Science and Technology}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Space Tech}{27}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Science Collaboration as Space Compass: NASA's Lunar South Pole Mission \& Geopolitics of Space}{27}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Defence Tech}{27}{section.5.2}%
+\contentsline {section}{\numberline {5.3}IT and communication Tech}{27}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Health}{27}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Energy}{27}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Bio Tech}{27}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Nuclear Tech}{27}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Miscellaneous}{27}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Major Chemistry Breakthrough: Carbon-Free Sandwich Molecule}{27}{subsection.5.8.1}%
+\contentsline {subsubsection}{Comparative Analysis: Ferrocene vs. The New Molecule}{28}{subsubsection*.15}%
+\contentsline {chapter}{\numberline {6}Internal Security}{29}{chapter.6}%
+\contentsline {subsection}{\numberline {6.0.1}Left Wing Extremism (LWE) — From Red Corridor to Naxal-Free Bharat (2014–2025)}{29}{subsection.6.0.1}%
+\contentsline {chapter}{\numberline {7}Miscellaneous}{31}{chapter.7}%
